@@ -7,3 +7,5 @@ A simple Python Django application running in a Docker container. The custom ima
 - Configure your web app to custom image 
 - Add an App Setting ```WEBSITES_PORT = 8000 ``` for your app 
 - Browse your site
+
+## ce-ci est un essai
