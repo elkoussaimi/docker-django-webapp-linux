@@ -28,7 +28,7 @@ jobs:
       - name: Build and Push Docker Image
         uses: mr-smithers-excellent/docker-build-push@v4
         with:
-          image: elkoussaimi/test-ci
+          image: aduval19/rep1
           tag: v3
           registry: docker.io
           username: ${{ secrets.DOCKER_USERNAME }}
