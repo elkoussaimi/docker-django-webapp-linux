@@ -1,4 +1,4 @@
-# Projet Fitec formation
+# Projet Fitec formation :)
 
 A simple Python Django application running in a Docker container. The custom image uses port 8000. 
 
