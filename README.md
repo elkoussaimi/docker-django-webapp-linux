@@ -1,4 +1,4 @@
-# Formation Fitec DevOps
+# Formation Fitec DevOps et Cloud
 
 A simple Python Django application running in a Docker container. The custom image uses port 8000. 
 
